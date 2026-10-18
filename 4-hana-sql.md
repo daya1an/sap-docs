@@ -3,7 +3,7 @@
 ## What SQLScript means
 
 - **SQL** — **Structured Query Language**: standard language for reading and changing relational data.
-- **SAP HANA** — SAP’s high-performance, in-memory database platform.
+- **SAP HANA** — SAP’s High‑Performance Analytic Appliance, an in-memory database platform.
 - **SQLScript** — SAP HANA’s SQL extension language for embedding application logic inside the database.
 - **Procedure** — a stored, reusable database program that can accept inputs, perform multiple steps, and return outputs.
 - **Function** — a reusable calculation; a **scalar function** returns one value, while a **table function** returns a result set.
